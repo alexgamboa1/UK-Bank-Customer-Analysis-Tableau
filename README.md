@@ -1,7 +1,9 @@
 # UK-Bank-Customer-Analysis-Tableau
+\
+\
 ![](https://github.com/alexgamboa1/UK-Bank-Customer-Analysis-Tableau/blob/master/Uk-Bank-Data-files/Bank.jpg)
-Analyze a UK Bank customer demographic across geographical locations between nation states using Tableau.
 
+Analyze a UK Bank customer demographic across geographical locations between nation states using Tableau.
 In this analysis my duties as a Data Analyst for a UK Bank was to create a dashboard that analyzes customer segmentation based on region. 
 
 ## Tableau Analysis: 
@@ -9,6 +11,9 @@ In this analysis my duties as a Data Analyst for a UK Bank was to create a dashb
 
 **Make sure to browse over the Dashboard and view the Customer Storyline to go over each region analysis.** 
 
+\
+\
+![](https://github.com/alexgamboa1/UK-Bank-Customer-Analysis-Tableau/blob/master/Uk-Bank-Data-files/Dashboardscreenshot.png)
 
 ### UK Customer Map
 UK customer map was created by restructuring the data to show the regions on the exact location on the global map. I then added a color scale to differentiate each region by color and added a legend for reference. I also added the amount of total customers each region has. Created filters to help specify each region in the next couple of worksheets. This map is key in the dashboard as it becomes very interactive to click on each region on the map to get customer segmentation analytics. 
