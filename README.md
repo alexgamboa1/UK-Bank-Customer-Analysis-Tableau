@@ -17,3 +17,9 @@ This chart shows the gender in a pie chart to analyze the different demographic 
 
 ## Distribution by Age 
 I created a chart that illustrates the percetange of customers distributed across different age groups. I added filters to create an interactive dashboard. I also grouped together the age groups by exact age, grouping by every 5 years, and every 10 years. 
+
+## Distribution by Balance
+I created a chart that illustrates that amount of customers who have a specific amount of money in their balance at the bank. This chart allows you to see the distribution of balances across different regions in the dashboard. The customer balance were group in bins of $5,000 to $25,000 to analyze the different distribution size of the banks customers balances. 
+
+## Job Classification
+I created a tree graph that illustrates the banks job classifcations for each customer. Once this is in the dashboard you can analyze the changes in job classification per region. 
