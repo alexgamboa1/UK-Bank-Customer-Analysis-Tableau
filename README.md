@@ -4,7 +4,7 @@ Analyze a UK Bank customer demographic across geographical locations between nat
 In this analysis my duties as a Data Analyst for a UK Bank was to create a dashboard that analyzes customer segmentation based on region. 
 
 ## Tableau Analysis: 
-[Click the link to be directed to Tableau Analysis: UK Bank Customer Analysis] (https://public.tableau.com/profile/alex2874#!/vizhome/UKBankCustomerSegmentationDashboard_15947975216560/UKBankCustomersDashboard) 
+[Click the link to be directed to Tableau Analysis: UK Bank Customer Analysis](https://public.tableau.com/profile/alex2874#!/vizhome/UKBankCustomerSegmentationDashboard_15947975216560/UKBankCustomersDashboard) 
 
 **Make sure to browse over the Dashboard and view the Customer Storyline to go over each region analysis.** 
 
